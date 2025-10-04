@@ -35,6 +35,8 @@ The spot is hidden behind the "eye lid".
 By removing the lenses from the LED spot, it gives a nicely uniform illumination. 
 In reality, it looks much more uniform than on camera.
 
+
+
 ![inside the cardboard box](inside.jpg)
 
 
