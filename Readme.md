@@ -10,8 +10,7 @@ Each window will get one eye like this:
 
 When moving by, this is the effect created:
 
-<video src="https://github.com/Dr-schobi/spooky-eyes/eyevideosmall.mp4"></video>
-
+![one of the eyes from the outside](eyevideo.gif)
 
 
 ## construction
