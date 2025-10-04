@@ -30,7 +30,8 @@ The pupil is a black piece of paper glued to the back.
 For now, I used painters tape to adjust the position later on.
 
 
-The inside is mostly white from the paper and illuminated by a modified spot for each eye.
+The inside is mostly white from the paper and illuminated by a modified LED spot for each eye.
+For details on the LED spot see [WLED PartyPar LED spot](https://github.com/Dr-schobi/wled-partypar).
 The spot is hidden behind the "eye lid".
 By removing the lenses from the LED spot, it gives a nicely uniform illumination. 
 In reality, it looks much more uniform than on camera.
