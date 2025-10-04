@@ -2,6 +2,10 @@
 
 # spooky eyes halloween decoration
 
+![pair of eyes center](eye1.jpg)
+![pair of eyes following](eye2.jpg)
+![pair of eyes following](eye3.jpg)
+
 
 I've got two narrow windows looking towards the street and they seem perfect for a spooky eyes halloween decoration.
 Each window will get one eye like this:
@@ -15,9 +19,11 @@ When moving by, this is the effect created:
 
 ## construction
 
-It is made a cardboard box, glued to a front plate. 
-The front plate is also cardboard (the size of the window), painted black on the front.
+You will need cardboard, black paint, hot glue and white paper.
+The eyes are made from a cardboard box, glued to a front plate. 
+The front plate is also cardboard (matching the size of the window), painted black on the front.
 The cutout is in the shape of an eye (with matching left and right sides).
+Make sure that your box is large enough for the cutout you plan to make and [better measure twice](https://xkcd.com/3149/).
 This plate will be taped to the window from the inside of the window (yay! easy to install in advance and weaterproof).
 
 ![outside view](outside.jpg)
@@ -46,7 +52,7 @@ In reality, it looks much more uniform than on camera.
 ## what is special about it?
 
 The pupil is not in the same plane as the cutout, but set to the back by about 22cm.
-With the parallax effect, the position of the pupil moves relative to the cutout, with the gaze seeming to follow you.
+With the parallax effect, the position of the pupil moves relative to the cutout, with the view seeming to follow you.
 
 
 
