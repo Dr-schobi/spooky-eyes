@@ -55,5 +55,10 @@ The pupil is not in the same plane as the cutout, but set to the back by about 2
 With the parallax effect, the position of the pupil moves relative to the cutout, with the view seeming to follow you.
 
 
+## credits
+
+I read about theme park eyes following you and the [hollow face illusion](https://en.wikipedia.org/wiki/Hollow-Face_illusion), but don't remember a direct source.
+Let me know if you've seen this before.
+
 
 
